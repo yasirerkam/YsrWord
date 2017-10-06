@@ -11,7 +11,7 @@
 #include <allegro5/allegro_ttf.h>
 #include <allegro5/allegro_font.h>
 #include <allegro5/allegro_native_dialog.h>
-
+ 
 struct Matris2B {
 	int x1, y1, x2, y2;
 };
